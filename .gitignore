@@ -132,3 +132,5 @@ dmypy.json
 cfg_files/
 evaluations_train/
 experiments_train/
+error_by_files/
+*.wav
